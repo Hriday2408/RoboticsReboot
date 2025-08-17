@@ -17,19 +17,26 @@ Everything else happens online using free tools and simulators.
 
 ## Picking where to Start (Step 0) 
 Most of the time, this is the most crucial step of getting into robotics. Down the line one will require to be fluent in these domains, but one should always start with the one which they want to master. Choosing one and sticking to that domain is IMPORTANT.
-   - [`Design`](### Design): Computer Aided Designing, Simulation of Stress/Strain, Forward/Inverse Kinematics and Dynamics, Prototyping, Cost Effectiveness
+   - Design: Computer Aided Designing, Simulation of Stress/Strain, Forward/Inverse Kinematics and Dynamics, Prototyping, Cost Effectiveness
    - Electronics: Tinkercad Circuits: Power Energy Systems, Control Boards, Sensors and Actuators, Communication and Network, Safety 
    - Programming: Robot Control, Embedded System programming, Perception and Processing using CompVis, AI Autonomy and ML Model Prediction 
 
 ---
 
 ## Learning tracks (STEP 1) 
+Once chosen the specific field, you can go ahead with these basic steps:  
 
-### Design (Onshape CAD)
-- Tool: https://www.onshape.com/
-- What to learn: sketch planes, constraints, extrude/revolve, assemblies.
-- Practice projects: model a simple car/rover, a robotic arm, and a crane/bulldozer.
-
+### if choice == Design
+- Start with Onshape: https://www.onshape.com/, free for all, just sign up with your email id, and start creating models.
+1. Learn : Basics Tools and terminology
+   -
+   - Sketch Plane, Views, Creation of Parts
+   - Intro into 2D : Sketching, Contraining & their shortcuts
+   - Intro into 3D : Extrude, Revolve, Sweep, Loft
+   - Special functions : Draft, Hole, Fillet, Chamfer
+2. Challenge : Build parts from Practice Drawing Sheets
+   -
+   - 
 ### Electronics (Tinkercad + Arduino)
 - Tool: https://www.tinkercad.com/ (Circuits)
 - What to learn: digital I/O, sensor reading, serial monitor, actuators.
