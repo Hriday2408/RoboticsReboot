@@ -106,15 +106,17 @@ Once chosen the specific field, you can go ahead with these basic steps:
 
 # Pick and plan your project (STEP 2) 
 
-- Once you have done basics of your domain, you can either start with another domain or go into project based learning. For domains such as Electronics and Design, one requires prototyping and hardware based learning. Socialize and form teams with like-minded people to start brainstorming and working on ideas.
+- After being done with basics of your domain, you can either start with another domain or go into project based learning. For domains such as Electronics and Design, one requires prototyping and hardware based learning. Socialize and form teams with like-minded people to start brainstorming and working on ideas.
 - Once an idea is finalized : Start with documentation and proposal writing.
-     - Start with any Google Doc storing the following data :
+      - Start with any Google Doc storing the following data :
         - Data of students, Team Name (If any)
         - Problem Statement (properly defined) 
         - Your Solution, and how is it different (what is its use-case, where can it be utilized)
         - Components Required (pair with a spreadsheet/table : "Cost per unit" , "Quantity", "Buy link")
         - Milestones and Approximate time it will take to build the idea
         - Budget and Secondary Resource allocation
+- On completing, share the document on the group or personally and wait until they have been verified and accepted.
+- Good ideas will be provided resources and components to work upon their prototype.  
 
 ---
 
