@@ -15,7 +15,7 @@ Everything else happens online using free tools and simulators.
 
 ---
 
-## Picking where to Start (Step 0) 
+# Picking where to Start (STEP 0) 
 Most of the time, this is the most crucial step of getting into robotics. Down the line one will require to be fluent in these domains, but one should always start with the one which they want to master. Choosing one and sticking to that domain is IMPORTANT.
    - Design: Computer Aided Designing, Simulation of Stress/Strain, Forward/Inverse Kinematics and Dynamics, Prototyping, Cost Effectiveness
    - Electronics: Tinkercad Circuits: Power Energy Systems, Control Boards, Sensors and Actuators, Communication and Network, Safety 
@@ -23,10 +23,10 @@ Most of the time, this is the most crucial step of getting into robotics. Down t
 
 ---
 
-## Learning tracks (STEP 1) 
+# Learning tracks (STEP 1) 
 Once chosen the specific field, you can go ahead with these basic steps:  
 
-### if choice == Design
+## if choice == Design
 - Start with Onshape: https://www.onshape.com/, free for all, just sign up with your email id, and start creating models.
   
 1. Learn : Basics Tools and Terminology
@@ -46,7 +46,7 @@ Once chosen the specific field, you can go ahead with these basic steps:
    -
    - TooTallToby - https://www.youtube.com/@TooTallToby - https://tootalltoby.com/
      
-### if choice == Electronics
+## if choice == Electronics
 - Start with TinkerCAD Circuits: https://www.tinkercad.com/, free and opensource, sign up with your email id, and start creating circuits.
 
 1. Learn : Basics of Components and Circuits
@@ -67,7 +67,7 @@ Once chosen the specific field, you can go ahead with these basic steps:
    - DroneBot Workshop : https://www.youtube.com/@Dronebotworkshop
    - How to Mechatronics : https://www.youtube.com/@HowToMechatronics
 
-### if choice == Programming (Python or C++)
+## if choice == Programming (Python or C++)
 - Programming itself has various subdomains, but for any programming purpose you do require the very very basic understanding of Coding (any language). Robotics usually utilizes Python and C++. Starting with Python is easier due to its readable syntax, but its better to understand both for future implementation.
 
 1. Learn : Understand the Language
@@ -81,7 +81,7 @@ Once chosen the specific field, you can go ahead with these basic steps:
       - Path Planning (Advanced) : ROS2, Path Algorithms
       - Simulation Systems (Advanced) : Gazebo & ROS
 
-2. Challenge Project based coding
+2. Challenge : Project based coding
    -
    - Beginner Level
      - Write a program to simulate a robot moving in a grid (keyboard control).
@@ -104,7 +104,7 @@ Once chosen the specific field, you can go ahead with these basic steps:
    
 ---
 
-## Pick and plan your project
+# Pick and plan your project (STEP 2) 
 
 - Once you have done basics of your domain, you can either start with another domain or go into project based learning. For domains such as Electronics and Design, one requires prototyping and hardware based learning. Socialize and form teams with like-minded people to start brainstorming and working on ideas.
 - Once an idea is finalized : Start with documentation and proposal writing.
