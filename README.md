@@ -28,14 +28,6 @@ Everything else happens online using free tools and simulators.
 
 ---
 
-## Roadmap
-
-The learning flow at a glance:
-
-![Robotics Roadmap](robotics_roadmap.png)
-
----
-
 ## Learning tracks
 
 ### Design (Onshape CAD)
