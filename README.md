@@ -135,9 +135,9 @@ This stage is about applying what you’ve learned and moving from practice to c
 ## Quick References 
 
 ### Design
-- CAD Tools → Fusion 360 / SolidWorks / FreeCAD
+- CAD Tools → Onshape / SolidWorks / FreeCAD
 - Rules → Modular, Lightweight, Sturdy
-- Don’t forget → Documentation, BOM, Drawings
+- Don’t forget → Documentation, Drawings
 
 ### Electronics
 - Power → Batteries, Regulators, Protection
