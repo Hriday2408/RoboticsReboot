@@ -1,4 +1,4 @@
-# Robotics Roadmap — Learn Robotics the Easy Way
+# Robotics Roadmap — Learn Robotics the almost Free Way
 
 This repository segment is for students who want to get into robotics for free. You only need:
 - A laptop
@@ -15,20 +15,15 @@ Everything else happens online using free tools and simulators.
 
 ---
 
-## Quick start
-
-1. Pick a starting track:
-   - Design: Onshape (browser-based CAD)
-   - Electronics: Tinkercad Circuits (Arduino simulator)
-   - Programming: VS Code or PyCharm (Python/C++)
-
-2. Learn the basics from free tutorials and official docs.
-3. Build mini‑projects in simulation.
-4. Select a project idea, document it, and build it virtually.
+## Picking where to Start (Step 0) 
+Most of the time, this is the most crucial step of getting into robotics. Down the line one will require to be fluent in these domains, but one should always start with the one which they want to master. Choosing one and sticking to that domain is IMPORTANT.
+   - [`Design`](### Design): Computer Aided Designing, Simulation of Stress/Strain, Forward/Inverse Kinematics and Dynamics, Prototyping, Cost Effectiveness
+   - Electronics: Tinkercad Circuits: Power Energy Systems, Control Boards, Sensors and Actuators, Communication and Network, Safety 
+   - Programming: Robot Control, Embedded System programming, Perception and Processing using CompVis, AI Autonomy and ML Model Prediction 
 
 ---
 
-## Learning tracks
+## Learning tracks (STEP 1) 
 
 ### Design (Onshape CAD)
 - Tool: https://www.onshape.com/
@@ -86,32 +81,6 @@ Use a short document (Google Doc or README) with:
 Have a better tutorial, a project idea, or a fix? Open a pull request or start a discussion. Keep it free, beginner‑friendly, and simulation‑first.
 
 ---
-
-## Re‑create the roadmap image (optional)
-
-You can re‑generate the flowchart with Graphviz:
-
-```python
-from graphviz import Digraph
-
-dot = Digraph(format="png")
-dot.attr(rankdir="LR")
-dot.attr("node", shape="box", style="rounded")
-
-dot.node("Start", "Getting Into Robotics\n(Free & Online)")
-dot.node("Design", "Design\n(Onshape CAD)")
-dot.node("Electronics", "Electronics\n(Tinkercad Circuits + Arduino)")
-dot.node("Programming", "Programming\n(Python or C++)")
-dot.edge("Start", "Design"); dot.edge("Start", "Electronics"); dot.edge("Start", "Programming")
-dot.node("OnshapeSteps", "Learn basics:\n- Sketch\n- Constraints\n- Extrude/Revolve\n- Assemblies")
-dot.node("OnshapeProjects", "Practice projects:\n- Car/Rover\n- Robotic Arm\n- Crane/Bulldozer")
-dot.edge("Design", "OnshapeSteps"); dot.edge("OnshapeSteps", "OnshapeProjects")
-dot.node("TinkercadSteps", "Start with Arduino UNO:\n- LEDs, sensors, motors\n- Serial Monitor")
-dot.node("TinkercadProjects", "Practice projects:\n- IR + buzzer\n- Ultrasonic + motor")
-dot.edge("Electronics", "TinkercadSteps"); dot.edge("TinkercadSteps", "TinkercadProjects")
-dot.node("ProgSteps", "Learn the basics:\n- Loops, conditions\n- Libraries\n- Small programs")
-dot.node("ProgBranches", "Explore paths:\n- Computation\n- Machine Learning\n- Path Planning (ROS 2)")
-dot.edge("Programming", "ProgSteps"); dot.edge("ProgSteps", "ProgBranches")
 
 dot.render("robotics_roadmap")
 ```
