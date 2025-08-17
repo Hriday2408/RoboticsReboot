@@ -120,6 +120,37 @@ Once chosen the specific field, you can go ahead with these basic steps:
 
 ---
 
+# Prototyping and Production (STEP 3) 
+Once you have completed the basics (simulation, algorithm, team formation, and proposals), here are the possible paths foorward: 
+
+- **Contribute to Open Source**  
+  Explore robotics-related repositories (e.g., ROS packages, Gazebo plugins) and start contributing small fixes or documentation.  
+- **Participate in Competitions**  
+  Join student competitions like Internal competitions, IIT Techfests, or Hackathons. These provide real-world challenges.  
+- **Build Your Own Robot**  
+  Move from simulation to hardware by experimenting with simple robots (line follower, robotic arm, or mobile rover).
+
+This stage is about applying what you’ve learned and moving from practice to creation. 
+
+## Quick References 
+
+### Design
+- CAD Tools → Fusion 360 / SolidWorks / FreeCAD
+- Rules → Modular, Lightweight, Sturdy
+- Don’t forget → Documentation, BOM, Drawings
+
+### Electronics
+- Power → Batteries, Regulators, Protection
+- Sensors → IMU, Encoders, Cameras
+- Actuators → Motors, Servos, Drivers
+- Safety → Fuses, Isolation, Grounding
+
+### Programming
+- Languages → Python, C++
+- Core → Control loops, Planning, Sensor fusion
+- Tools → ROS, Gazebo, PyBullet
+- Practices → Modular code, Git, Testing
+  
 ## Contributing
 
 Have a better tutorial, a project idea, or a fix? Open a pull request or start a discussion. Keep it free, beginner‑friendly, and simulation‑first.
