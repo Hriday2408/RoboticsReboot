@@ -1,4 +1,4 @@
-![unnamed](https://github.com/user-attachments/assets/876a0c98-a372-49f5-8e2f-b7b6196aece9)# Robotics Roadmap — Learn Robotics the *almost* Free Way
+# Robotics Roadmap — Learn Robotics the *almost* Free Way
 
 This repository segment is for students who want to get into robotics for free. You only need:
 - A laptop
